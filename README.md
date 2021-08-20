@@ -1,2 +1,2 @@
 # face-recognition
-Simple face recognition system built using OpenCV
+Simple face recognition AI project built using OpenCV
